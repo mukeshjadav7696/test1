@@ -1,4 +1,4 @@
 hello
 changes made by chandan
 
-this enty is made to check forked working or not 
+this entry is made to check forked working or not 
